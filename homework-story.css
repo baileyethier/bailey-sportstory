@@ -12,7 +12,7 @@ article {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Unbuntu', 'Roboto', sans-serif;
+    font-family: 'Ubuntu', 'Roboto', sans-serif;
 }
 
 h1 {
@@ -44,7 +44,8 @@ h3 {
 
 blockquote {
     border-left: grey solid 4px;
-    padding: 0 0 0 20px
+    padding-left: 20px;
+    margin-left: 20px;
 }
 
 ol {
